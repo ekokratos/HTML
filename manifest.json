@@ -32,5 +32,19 @@
   {
     "type" : "multi-value",
     "values" : ["White","Black"]
+  },
+  {
+    "type" : "Text",
+    "hint" : "Name",
+    "is_mandatory" : "No"
+  },
+  {
+    "type" : "Text",
+    "hint" : "Name",
+    "is_mandatory" : "No"
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["Cyan","Magenta","Yellow","Pink","Red","Gray","Blue"]
   }
 ]
