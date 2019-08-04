@@ -1,0 +1,36 @@
+[
+  {
+    "type" : "Text",
+    "hint" : "Name",
+    "is_mandatory" : "No"
+  },
+  {
+    "type" : "Text",
+    "hint" : "Phone Number",
+    "is_mandatory" : "Yes",
+    "regex" : "^[0-9]{10}$"
+  },
+  {
+    "type" : "Dropdown",
+    "default" : "None",
+    "values" : ["One","Two","Three"]
+  },
+  {
+    "type" : "Text",
+    "hint" : "Measurement",
+    "dropdown" : "Yes",
+    "values" : ["mm","cm","m"]
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["Red","Green","Blue"]
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["Cyan","Magenta","Yellow","Pink","Red","Gray","Blue"]
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["White","Black"]
+  }
+]
