@@ -46,5 +46,13 @@
   {
     "type" : "multi-value",
     "values" : ["Cyan","Magenta","Yellow","Pink","Red","Gray","Blue"]
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["Cyan","Magenta","Yellow","Pink","Red","Gray","Blue"]
+  },
+  {
+    "type" : "multi-value",
+    "values" : ["Cyan","Magenta","Yellow","Pink","Red","Gray","Blue"]
   }
 ]
